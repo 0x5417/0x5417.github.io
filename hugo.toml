@@ -1,0 +1,68 @@
+baseURL = 'https://example.com/'
+languageCode = 'en-us'
+title = 'salt'
+theme = 'friend'
+
+copyright = "Everything I say is a lie."
+enableEmoji = true
+
+[params]
+  homeSubtitle = "I'm just a simple man, trying to make my way in the universe."
+
+[params.author]
+  name = 'John Due'
+
+#[params.footer]
+#  trademark = 2025
+#  #rss = true
+#  copyright = true
+#  author = true
+#  topText = []
+#  bottomText = []
+
+[params.logo]
+  logoMark     = "me@daydrinking.dev:~$"
+  logoText     = "whoami"
+  logoHomeLink = "/"
+  logoCursorColor = "#67a2c9"
+
+#[params.favicon.color]
+#  mask = "#1b1c1d"
+#  msapplication = "#1b1c1d"
+#  theme = "#1b1c1d"
+
+[params.portrait]
+  path     = "/img/land.png"
+  alt      = "Portrait"
+  maxWidth = "200px"
+
+[[params.social]]
+  name = "github"
+  url  = "https://github.com/Qj97F4eNJOg5"
+[[params.social]]
+  name = "email"
+  url  = "mailto:me@daydrinking.dev"
+#[[params.social]]
+#  name = "twitter"
+#  url  = "https://twitter.com/"
+#[[params.social]]
+#  name = "linkedin"
+#  url  = "https://www.linkedin.com/"
+#[[params.social]]
+#  name = "stackoverflow"
+#  url  = "https://www.stackoverflow.com/"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "road"
+    name       = "Road to $1M"
+    url        = "road/"
+

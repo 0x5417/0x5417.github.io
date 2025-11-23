@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roads on salt</title>
+    <link>http://localhost:1313/road/</link>
+    <description>Recent content in Roads on salt</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Everything I say is a lie.</copyright>
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/road/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/road/intro/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/road/intro/</guid>
+      <description>&lt;h2 id=&#34;what-is-the-road-to-1m&#34;&gt;What is the road to $1M?&lt;/h2&gt;&#xA;&lt;p&gt;One of my goals in life is to obtain 1 million USD in today&amp;rsquo;s dollars.&#xA;Why would anyone want this? The answer is simple. &lt;em&gt;&lt;strong&gt;Freedom&lt;/strong&gt;&lt;/em&gt;.&#xA;I want the ability to control my time from the minute I wake up to the minute I go to bed.&lt;/p&gt;&#xA;&lt;p&gt;Having $1M would allow me to achieve this. I could happily live off interest and do whatever I want all day long.&#xA;$1M would allow me to live a simple, worry free life.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time Value of Money</title>
+      <link>http://localhost:1313/road/time-value-of-money/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/road/time-value-of-money/</guid>
+      <description>&lt;h2 id=&#34;would-i-rather-have-10-today-or-10-five-years-from-now&#34;&gt;Would I rather have $10 today or $10 five years from now?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;Today&lt;/strong&gt;&lt;/em&gt;.&#xA;The answer is simple when you consider inflation, compound interest, and market returns.&lt;/p&gt;&#xA;&lt;p&gt;Historically the United States stock market has returned around 11% per year for the last 40 years.&#xA;Over the last 5 years alone, it has averaged over 17% growth per year.&lt;/p&gt;&#xA;&lt;p&gt;Inflation is a &lt;em&gt;&lt;strong&gt;bitch&lt;/strong&gt;&lt;/em&gt;.&#xA;Inflation in the United States has averaged 2.8% per year against the cost of goods.&#xA;Obviously inflation is a wealth killer but it stands no match against amortized market returns.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
