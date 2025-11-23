@@ -5,7 +5,7 @@ draft = false
 +++
 ## Thanks for checking out my blog!
 
-I am a 21 year old software engineer with a passion for alcohol, drugs and gambling.
+I am a 21 year old software engineer with a passion for alcohol.
 I am a connoisseur when it comes to finer things in life.
 In my free time I enjoy taking long walks around the neighborhood.
 
