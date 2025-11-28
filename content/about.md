@@ -15,4 +15,5 @@ I am a fan of dry and dark humor so please don't take anything here too seriousl
 
 [Contact me!](mailto:me@daydrinking.dev)
 I will make you a site (static or dynamic), and host it for you for incredibly cheap.
-I will teach you how to edit and make it your own too if you want!
+I will teach you how to edit and make it your own too if you want.
+Tell your friends!
